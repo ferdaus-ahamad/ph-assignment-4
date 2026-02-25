@@ -1,0 +1,28 @@
+.dashboard-card {
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.dashboard-card h2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.dashboard-card p {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.tab {
+    padding: 8px 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.active-tab {
+    background-color: black;
+    color: white;
+}
